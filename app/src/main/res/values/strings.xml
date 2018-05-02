@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Coder\'s Diary</string>
+    <string name="topic">Topic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="contest_code">Contest Code</string>
+    <string name="contest_name">Contest Name</string>
+    <string name="asquero">Asquero</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="subscriptions">Subscriptions</string>
+
+    <string-array name="subscription">
+        <item>CodeChef</item>
+        <item>Sphere Online Judge(SPOJ)</item>
+        <item>HackerRank</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about">About</string>
+    <string name="coder_s_diary">Coder\'s Diary</string>
+    <string name="asqueroCpr">©Asquero</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
